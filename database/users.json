@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5,
+    "rut": "224324324",
+    "name": "marien",
+    "startDate": "2022-10-09",
+    "endDate": "2022-10-09",
+    "status": "active",
+    "payment": 33333
+  },
+  {
+    "id": 8,
+    "rut": "224324324",
+    "name": "mariana",
+    "startDate": "Thu Oct 08 2022",
+    "endDate": "2022-10-09",
+    "status": "active",
+    "payment": 33333
+  },
+  {
+    "id": 9,
+    "rut": "224324324",
+    "name": "maria",
+    "startDate": "Thu Oct 08 2022",
+    "endDate": "Thu Oct 08 2022",
+    "status": "active",
+    "payment": 33333
+  },
+  {
+    "id": 10,
+    "rut": "224324324",
+    "name": "Jhors Wilson",
+    "startDate": "Thu Oct 08 2022",
+    "endDate": "Thu Oct 08 2022",
+    "status": "active",
+    "payment": 33333
+  },
+  {
+    "id": 11,
+    "rut": "224324324",
+    "name": "Maria Paula Reyes Quintero",
+    "startDate": "Thu Oct 08 2022",
+    "endDate": "Thu Oct 08 2022",
+    "status": "active",
+    "payment": 33333
+  }
+]
